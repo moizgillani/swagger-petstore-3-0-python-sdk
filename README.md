@@ -23,11 +23,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install swagger-petstore-3-sdk==2.0.1
+pip install swagger-petstore-3-sdk==2.0.2
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/swagger-petstore-3-sdk/2.0.1
+https://pypi.python.org/pypi/swagger-petstore-3-sdk/2.0.2
 
 ## Test the SDK
 
@@ -42,7 +42,7 @@ pytest
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -76,13 +76,13 @@ This API uses `Custom Header Signature`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/controllers/pet.md)
-* [Store](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/controllers/store.md)
-* [User](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/controllers/user.md)
+* [Pet](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/controllers/pet.md)
+* [Store](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/controllers/store.md)
+* [User](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/http-response.md)
-* [HttpRequest](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.1/doc/http-request.md)
+* [Utility Classes](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/http-response.md)
+* [HttpRequest](https://www.github.com/moizgillani/swagger-petstore-3-0-python-sdk/tree/2.0.2/doc/http-request.md)
 
